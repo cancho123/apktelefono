@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+-<widget version="1.0.0" versionCode="10" id="com.phonegap.example" xmlns="http://phonegap.com/ns/1.0">
+
+<!--VersionCode is optional and Android only-->
+
+
+<name>Cuestionario</name>
+
+<description> App de prueba en la que se manejan preguntas de opcion multiple </description>
+
+<author email="201600016@uprr.edu.mx" href="iti16.com">Web </author>
+
+</widget>
